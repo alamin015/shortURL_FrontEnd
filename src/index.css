@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  background: #fafafa;
+}
+.input {
+  @apply w-full border outline-none text-xl border-slate-400 border-r-0 rounded-r-none focus:border-[#2a5bd7] text-[#0a0a0a] px-2 h-[42px] rounded-md;
+}
+.btn {
+  @apply w-[130px] h-[42px] border text-white text-xl border-[#2a5bd7] border-l-0 bg-[#2a5bd7] rounded-r-md;
+}
