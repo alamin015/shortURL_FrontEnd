@@ -1,6 +1,6 @@
 # Short URL project - Front End
 
->[!Technologies]
+## Technologies
 >TailwindCSS
 >React
 >Axios
