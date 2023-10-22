@@ -11,3 +11,6 @@
 - react-icon
 - react-loader-spinner
 - react-toastify
+
+## Screenshot of my simple short URL front-end project
+![Front end Picture](https://i.ibb.co/2g36Lkf/shortURL.png)
